@@ -1,7 +1,8 @@
 import os
 from openai import OpenAI
-from dotenv import load_dotenv
+from dotenv import load_dotenv #using this to load env in out local file
 load_dotenv()
+
 
 client = OpenAI(
   api_key = os.getenv('API_KEY')
