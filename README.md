@@ -16,3 +16,30 @@
 
 
 <h4>Explainatin of code</h4>
+<h2>
+  <ol>
+  <li>
+    import openai
+  </li>
+  <li> 
+    import os #use for accesing os variables
+  </li>
+  <li>
+    import loadenv #use for loading environmental variable into our file
+  </li>
+  <li>
+    craeting the funcatino which return the response
+  </li>
+  <li> passing the prmpt parameter as well as the model of that we are using.</li>
+  <li>
+    defining the defination of the funcation
+  </li>
+  <li>
+    taking the input form the user
+  </li>
+  <li>
+    printing the response
+  </li>
+    
+  <ol>
+</h2>
